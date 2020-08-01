@@ -7,17 +7,17 @@ namespace CodingChallenges
         static void Main(string[] args)
         {
             //Pairs - HackerRank
-            //string[] nk = "5 2".Split(' ');//Console.ReadLine().Split(' ');
+            string[] nk = "5 2".Split(' ');//Console.ReadLine().Split(' ');
 
-            //int n = Convert.ToInt32(nk[0]);
+            int n = Convert.ToInt32(nk[0]);
 
-            //int k = Convert.ToInt32(nk[1]);
+            int k = Convert.ToInt32(nk[1]);
 
-            //int[] arr = Array.ConvertAll("1 5 3 4 2".Split(' '), arrTemp => Convert.ToInt32(arrTemp));//Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
+            int[] arr = Array.ConvertAll("1 5 3 4 2".Split(' '), arrTemp => Convert.ToInt32(arrTemp));//Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
 
-            //int result = Pairs.pairs(k, arr);
+            int result = Pairs.pairs(k, arr);
 
-            //Console.WriteLine(result);
+            Console.WriteLine(result);
 
             //NewYear Chaos - HackerRank
             int t = Convert.ToInt32("1");  //Convert.ToInt32(Console.ReadLine());
