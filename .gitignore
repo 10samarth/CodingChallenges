@@ -304,6 +304,8 @@ UpgradeLog*.htm
 App_Data/*.mdf
 App_Data/*.ldf
 
+Program.cs
+
 # =========================
 # Windows detritus
 # =========================
@@ -323,4 +325,3 @@ $RECYCLE.BIN/
 
 _NCrunch*
 
-Program.cs
