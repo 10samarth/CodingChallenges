@@ -8,3 +8,5 @@ Solutions to coding problems from various sites.
   4. **Rotate Array** MaxProfit. From [Leetcode](https://leetcode.com/problems/rotate-array/)
   5. **ContainsDuplicate** MaxProfit. From [Leetcode](https://leetcode.com/problems/contains-duplicate/)
   6. **SingleNumber** MaxProfit. From [Leetcode](https://leetcode.com/problems/single-number/)
+  7. **LimitClassInstance** Challenge: User should be able to create only 10 instance of the specified class.
+  If User tries to create more than that then an exception should be thrown.
